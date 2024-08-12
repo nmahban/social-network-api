@@ -10,7 +10,7 @@ To use the skills we've learned in class to build out a social network applicati
 
 Demo Link: https://app.screencastify.com/v3/watch/MNwBENEEyKMoY4xeIXHw
 
-Credits
+Credits:
 Mdn Web Docs, https://mongoosejs.com/
 
 License:
